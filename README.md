@@ -3,7 +3,7 @@
 This project is about creating a simplified 3D graphic representation of a
 relief landscape.
 
-В этом проекте я должен был реализовать визуализацию фракталов сетчатой 3D карты с нуля.
+В этом проекте я должен был реализовать визуализацию сетчатой 3D карты с нуля.
 
 
 ### Установка
